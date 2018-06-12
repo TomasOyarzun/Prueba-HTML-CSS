@@ -1,12 +1,14 @@
-html{
-	overflow-x: hidden;
-}
 .center{
+	margin-top: 20px;
 	text-align: center;
+	font-size: 4em;
 }
 .footer{
 	background-color: black;
 	color: white;
 	height: 100%;
 	padding: 1%;
+}
+.color{
+	background-color: white;
 }
