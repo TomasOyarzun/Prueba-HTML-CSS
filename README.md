@@ -1,1 +1,1 @@
-[Link to Tomás Oyarzún Repository](http://github.com/TomasOyarzun/Prueba-HTML-CSS)
+[Link to Tomás Oyarzún Page](https://tomasoyarzun.github.io/Prueba-HTML-CSS/)
